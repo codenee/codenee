@@ -62,7 +62,7 @@
     </td>
     <td align="center" width="96">
       <a href="#codenee-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
