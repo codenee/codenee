@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="96">
       <a href="#codenee-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/python-original.gif" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
