@@ -9,7 +9,7 @@
       <a href="#codenee-tech">
         <img src="./img/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>C++&nbsp;(Core)
+      <br>C/C++&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="#codenee-tech">
