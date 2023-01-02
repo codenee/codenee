@@ -1,7 +1,8 @@
 <h1 align="left" id="codenee-title">:wave: Hello there! I'm codenee (woohyeon)</h1>
+<img align='right' src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="300">
 <h3 align="left"> codenee's blog is "https://code-space.tistory.com/" </h3>
-
-
+<br>
+<br>
 <h2> :books: My tech stack </h2>
 <table>
   <tr>
@@ -37,7 +38,7 @@
     </td>
   </tr>
  </table>
- 
+ <br>
  <h2>  :pencil: Artificial Intelligence tech being learned</h2>
   <table>
   <tr>
@@ -50,7 +51,7 @@
   </tr>
  </table>
 
-
+<br>
 <h2>  :pencil: Web tech being learned</h2>
 <table>
   <tr>
@@ -119,7 +120,7 @@
   </tr>
 </table>
 
-
+<img align='left' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="200">
 
 <!--
 **codenee/codenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
