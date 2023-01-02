@@ -13,7 +13,7 @@
     </td>
     <td align="center" width="96">
       <a href="#codenee-tech">
-        <img src="./img/securityLock.png" width="48" height="48" alt="Security" />
+        <img src="./img/secure-original.png" width="48" height="48" alt="Security" />
       </a>
       <br>Security
     </td>
@@ -43,7 +43,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#codenee-tech">
-        <img src="./img/artificial_intelligence-original.png" width="48" height="48" alt="AI" />
+        <img src="./img/artificial_intelligence.png" width="48" height="48" alt="AI" />
       </a>
       <br>AI
     </td>
