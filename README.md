@@ -13,7 +13,7 @@
     </td>
     <td align="center" width="96">
       <a href="#codenee-tech">
-        <img src="./img/spyware_security.png" width="48" height="48" alt="Security" />
+        <img src="./img/securityLock.png" width="48" height="48" alt="Security" />
       </a>
       <br>Security
     </td>
