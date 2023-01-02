@@ -1,14 +1,21 @@
 <h1 align="left" id="codenee-title">:wave: Hello there! I'm codenee (woohyeon)</h1>
 <h3 align="left"> codenee's blog is "https://code-space.tistory.com/" </h3>
 
-<h2> Favorite Tech & Tech being learned</h2>
+
+<h2> Favorite Tech </h2>
 <table>
   <tr>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#codenee-tech">
         <img src="./img/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#codenee-tech">
+        <img src="./img/spyware_security.png" width="48" height="48" alt="Security" />
+      </a>
+      <br>Security
     </td>
      <td align="center" width="96">
       <a href="#codenee-tech">
@@ -16,6 +23,37 @@
       </a>
       <br>Java
     </td>
+     <td align="center" width="96">
+      <a href="#codenee-tech">
+        <img src="./img/springboot-original.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring
+    </td>
+     <td align="center" width="96">
+      <a href="#codenee-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+ </table>
+ 
+ <h2> Artificial Intelligence tech being learned</h2>
+  <table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#codenee-tech">
+        <img src="./img/artificial_intelligence-original.png" width="48" height="48" alt="AI" />
+      </a>
+      <br>AI
+    </td>
+  </tr>
+ </table>
+
+
+<h2> Web tech being learned</h2>
+<table>
+  <tr>
     <td align="center" width="96">
       <a href="#codenee-tech">
         <img src="./img/python-original.gif" width="48" height="48" alt="Python" />
@@ -40,19 +78,25 @@
       </a>
       <br>JavaScript
     </td>
-    </tr>
-    <tr>
     <td align="center" width="96">
       <a href="#codenee-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
-      <a href="#codenee-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+    </tr>
+    <tr>
+     <td align="center" width="96"> 
+      <a href="#codenee-tech" >
+        <img src="./img/Ehcache-original.svg" width="48" height="48" alt="Ehcache" />
       </a>
-      <br>Bootstrap
+      <br>Ehcache
+    </td>
+    <td align="center" width="96"> 
+      <a href="#codenee-tech" >
+        <img src="./img/redis-original.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
     </td>
     <td align="center" width="96"> 
       <a href="#codenee-tech" >
@@ -72,9 +116,6 @@
       </a>
       <br>MySQL
     </td>
-
-
- 
   </tr>
 </table>
 
