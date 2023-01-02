@@ -1,9 +1,9 @@
-<h1 align="left" id="codenee-title">:wave: Hello there! I'm codenee (woohyeon)</h1>
+<h1 align="left" id="codenee-title"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello there!:wave:  I'm codenee (woohyeon)</h1>
 <img align='right' src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="300">
 <h3 align="left"> codenee's blog is "https://code-space.tistory.com/" </h3>
 <br>
 <br>
-<h2> :books: My tech stack </h2>
+<h2> :computer: My tech stack </h2>
 <table>
   <tr>
      <td align="center" width="96">
@@ -39,7 +39,8 @@
   </tr>
  </table>
  <br>
- <h2>  :pencil: Artificial Intelligence tech being learned</h2>
+ <h2>  :books: I’m currently learning 👇</h2>
+ <h3> ✏️ Artificial Intelligence tech <h3>
   <table>
   <tr>
     <td align="center" width="96">
@@ -52,12 +53,12 @@
  </table>
 
 <br>
-<h2>  :pencil: Web tech being learned</h2>
+<h3> ✏️ Web tech </h3>
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#codenee-tech">
-        <img src="./img/python-original.gif" width="48" height="48" alt="Python" />
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
