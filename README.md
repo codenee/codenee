@@ -2,7 +2,7 @@
 <h3 align="left"> codenee's blog is "https://code-space.tistory.com/" </h3>
 
 
-<h2> Favorite Tech </h2>
+<h2> :books: My tech stack </h2>
 <table>
   <tr>
      <td align="center" width="96">
@@ -38,7 +38,7 @@
   </tr>
  </table>
  
- <h2> Artificial Intelligence tech being learned</h2>
+ <h2>  :pencil: Artificial Intelligence tech being learned</h2>
   <table>
   <tr>
     <td align="center" width="96">
@@ -51,7 +51,7 @@
  </table>
 
 
-<h2> Web tech being learned</h2>
+<h2>  :pencil: Web tech being learned</h2>
 <table>
   <tr>
     <td align="center" width="96">
