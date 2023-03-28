@@ -78,9 +78,9 @@
     </td>
     <td align="center" width="96">
       <a href="#codenee-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Go
+      <br> Rust
     </td>
      <td align="center" width="96">
       <a href="#codenee-tech">
@@ -88,11 +88,11 @@
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="#codenee-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+     <td align="center" width="96"> 
+      <a href="#codenee-tech" >
+        <img src="./img/kotlin.svg" width="48" height="48" alt="Kotlin" />
       </a>
-      <br>JavaScript
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#codenee-tech" >
@@ -133,6 +133,7 @@
       <br>MySQL
     </td>
   </tr>
+  <!--3th row-->  
 </table>
 
 <img align='left' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="200">
