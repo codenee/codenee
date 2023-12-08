@@ -1,4 +1,4 @@
-<h1 align="left" id="codenee-title"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello there!:wave:  I'm codenee (woohyeon)</h1>
+<h1 align="left" id="codenee-title"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello there!👋  I'm codenee (woohyeon)</h1>
 
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
