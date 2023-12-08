@@ -42,7 +42,7 @@
       <a href="#codenee-tech">
         <img src="./img/springboot-original.svg" width="48" height="48" alt="Spring Boot" />
       </a>
-      <br>Spring
+      <br>SpringBoot
     </td>
      <td align="center" width="96">
       <a href="#codenee-tech">
@@ -52,6 +52,7 @@
     </td>
   </tr>
  </table>
+ <!--
  <br>
  <h2>  :books: I’m currently learning 👇</h2>
  <h3> ✏️ Artificial Intelligence tech <h3>
@@ -65,10 +66,12 @@
     </td>
   </tr>
  </table>
+-->
 
 <br>
 <h3> ✏️ Web tech </h3>
 <table>
+  <!--
   <tr>
     <td align="center" width="96">
       <a href="#codenee-tech">
@@ -133,6 +136,7 @@
       <br>MySQL
     </td>
   </tr>
+  -->
   <!--3th row-->  
 </table>
 
