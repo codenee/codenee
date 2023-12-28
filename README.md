@@ -1,4 +1,12 @@
-<h1 align="left" id="codenee-title"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello there!👋  I'm codenee (woohyeon)</h1>
+<h2 align="left" id="codenee-title"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello there! </h2>
+<!--
+![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![js](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![js]()
+-->
 
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -12,7 +20,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 -->
-
+<!--
 <img align='right' src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="270">
 <h3 align="left"> codenee's blog is "https://code-space.tistory.com/" </h3>
 <br>
@@ -52,6 +60,7 @@
     </td>
   </tr>
  </table>
+ -->
  <!--
  <br>
  <h2>  :books: I’m currently learning 👇</h2>
@@ -68,10 +77,10 @@
  </table>
 -->
 
+  <!--
 <br>
 <h3> ✏️ Web tech </h3>
 <table>
-  <!--
   <tr>
     <td align="center" width="96">
       <a href="#codenee-tech">
@@ -136,13 +145,13 @@
       <br>MySQL
     </td>
   </tr>
-  -->
-  <!--3th row-->  
 </table>
-
-<img align='left' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="200">
+  --> <!--3th row-->  
 
 <!--
+<img align='left' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="200">
+
+
 **codenee/codenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -155,6 +164,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
