@@ -1,4 +1,8 @@
 <h2 align="left" id="codenee-title"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello there! </h2>
+
+<h4>WOOHYEON's BLOG : https://code-space.tistory.com/</h4>
+<br>
+
 <div align=center>
   
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
